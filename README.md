@@ -4,13 +4,14 @@
 
 ### Assalamu'alaika ( Peace be upon you), I am Abdul Matin
 
-[![Linkedin Badge](https://img.shields.io/badge/-AbdulMatin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/AbdulMatinMuaz/)](https://www.linkedin.com/in/AbdulMatinMuaz/)
-[![Gmail Badge](https://img.shields.io/badge/-vbhogayata@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vbhogayata@gmail.com)](mailto:vbhogayata@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Abdul_Matin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/AbdulMatinMuaz/)](https://www.linkedin.com/in/AbdulMatinMuaz/)
+[![Gmail Badge](https://img.shields.io/badge/-Abdul_Matin@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ammuaj.cseruet@gmail.com)](mailto:ammuaj.cseruet@gmail.com)
 
-- 🎯 Portfolio website: [Portfolio](https://varadbhogayata.github.io/)
+- 🎯 Portfolio website: [Portfolio](https://AbdulMatin.github.io/)
 - 💬 Ask me about anything, I am happy to help :smile:
 - 📬 How to reach me: [Let's get in touch!][linkedin]
 
+<!--
 ### Languages and Tools:
 
 <img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
@@ -36,7 +37,7 @@
 ### :zap: Github Stats
 
 <p>
-    <a href="https://gitstats.me/varadbhogayata" target="_blank"> 
+    <a href="https://gitstats.me/varadbhogayata" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api?username=varadbhogayata&&show_icons=true&hi&theme=dark&count_private=true&include_all_commits=true">
     </a>
 </p>
@@ -47,4 +48,6 @@
 
 <!--[website]: -->
 
-[linkedin]: https://www.linkedin.com/in/varadbhogayata
+[linkedin]: https://www.linkedin.com/in/AbdulMatinMuaz
+
+<!--[Copied from  https://github.com/varadbhogayata . I am happy to give all the credits to  varadbhogayata-->
