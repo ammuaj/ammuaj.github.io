@@ -4,7 +4,7 @@
 
 ### Assalamu'alaika ( Peace be upon you), I am Abdul Matin
 
-[![Linkedin Badge](https://img.shields.io/badge/-varadbhogayata-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/varadbhogayata/)](https://www.linkedin.com/in/varadbhogayata/)
+[![Linkedin Badge](https://img.shields.io/badge/-AbdulMatin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/AbdulMatinMuaz/)](https://www.linkedin.com/in/AbdulMatinMuaz/)
 [![Gmail Badge](https://img.shields.io/badge/-vbhogayata@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vbhogayata@gmail.com)](mailto:vbhogayata@gmail.com)
 
 - 🎯 Portfolio website: [Portfolio](https://varadbhogayata.github.io/)
